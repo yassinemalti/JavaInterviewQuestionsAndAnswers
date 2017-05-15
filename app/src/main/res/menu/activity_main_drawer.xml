@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/groupeprincipal" android:checkableBehavior="single">
+        <item
+            android:id="@+id/un"
+            android:icon="@drawable/un"
+            android:title="Object Oriented Programming" />
+        <item
+            android:id="@+id/deux"
+            android:icon="@drawable/deux"
+            android:title="General Questions about Java" />
+        <item
+            android:id="@+id/trois"
+            android:icon="@drawable/trois"
+            android:title="Java Threads" />
+        <item
+            android:id="@+id/quatre"
+            android:icon="@drawable/quatre"
+            android:title="Java Collections" />
+        <item
+            android:id="@+id/cinq"
+            android:icon="@drawable/cinq"
+            android:title="Garbage Collectors" />
+        <item
+            android:id="@+id/six"
+            android:icon="@drawable/six"
+            android:title="Exception Handling" />
+        <item
+            android:id="@+id/sept"
+            android:icon="@drawable/sept"
+            android:title="Java Applets" />
+    </group>
+
+    <group android:id="@+id/groupesecondaire" >
+        <group>
+            <item
+                android:id="@+id/partager"
+                android:icon="@drawable/partager"
+                android:title="Share the application" />
+        </group>
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/apropos"
+                android:icon="@drawable/apropos"
+                android:title="About" />
+        </group>
+    </group>
+
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Java Interview Questions and Responses</string>
+    <string name="title_activity_main">Java Interview Questions and Responses</string>
+    <string name="app_description">Java Interview Questions and Responses</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

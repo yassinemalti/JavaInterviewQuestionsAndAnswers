@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "293668266505",
+    "firebase_url": "https://java-interview-qr.firebaseio.com",
+    "project_id": "java-interview-qr",
+    "storage_bucket": "java-interview-qr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293668266505:android:783d8d6cc84302fe",
+        "android_client_info": {
+          "package_name": "com.wordpress.yassinemalti.javainterviewquestionsandanswers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293668266505-dc9k3js8d8cd48g1agun84oevefdbkmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9b3npqRiUnJ_R1jmzAtdgF8wnqf_n0os"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
